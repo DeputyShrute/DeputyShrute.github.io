@@ -258,3 +258,12 @@ html.slideout-open .fixed-open-left #left-nav.hamburger-icon.htx span::after {
 .video{
   text-align: center;
 }
+
+.pdf{
+  text-align: center;
+}
+
+#PDFS{
+  height: 700px;
+  width: 650px;
+}
